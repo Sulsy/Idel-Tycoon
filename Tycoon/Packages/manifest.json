@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.sulsy.tycoon-gamecore": "file:E:/Idel-Tycoon-Game-Core/com.sulsy.tycoon-gamecore",
+    "com.sulsy.tycoon-gamecore": "https://github.com/Sulsy/com.sulsy.tycoon-gamecore.git",
     "com.unity.collab-proxy": "1.17.7",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.16",

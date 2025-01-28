@@ -1,10 +1,11 @@
 {
   "dependencies": {
     "com.sulsy.tycoon-gamecore": {
-      "version": "file:E:/Idel-Tycoon-Game-Core/com.sulsy.tycoon-gamecore",
+      "version": "https://github.com/Sulsy/com.sulsy.tycoon-gamecore.git",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "de27193a9e44508667fc56d5d95084f9f2f7fabb"
     },
     "com.unity.collab-proxy": {
       "version": "1.17.7",
